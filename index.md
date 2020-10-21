@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Welcome to my GitHub Pages
 
 ```c
