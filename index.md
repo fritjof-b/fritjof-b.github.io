@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to my GitHub Pages
+# Welcome
 
 ```c
 cout << "Hello world!" << endl;
